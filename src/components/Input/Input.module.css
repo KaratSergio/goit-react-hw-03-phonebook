@@ -1,0 +1,12 @@
+.input-label {
+  font-size: 22px;
+}
+
+.input {
+  display: flex;
+  padding: 10px 15px;
+  height: 15px;
+  width: 258px;
+  border: var(--accent-border);
+  border-radius: 4px;
+}

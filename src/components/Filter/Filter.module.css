@@ -1,0 +1,9 @@
+.name-label {
+  text-shadow: var(--label-shadow);
+  font-family: 'Menlo';
+}
+.name-input {
+  background-color: var(--input-bg);
+  box-shadow: var(--input-box-shadow);
+  margin: 5px 0 20px;
+}
